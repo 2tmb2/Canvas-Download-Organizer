@@ -6,12 +6,7 @@ import java.util.*;
 import java.io.*;
 import java.nio.file.*;
 import java.nio.file.Files;
-/**
- * Write a description of class CanvasFileDownloadOrganizer here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 public class CanvasFileDownloadOrganizer extends JPanel
 {
     final JFileChooser fc = new JFileChooser();
